@@ -3,4 +3,8 @@ Historia
 Ian y Álvaro
 Buenos días
 Como estás
+<<<<<<< HEAD
 ADIOS
+=======
+END
+>>>>>>> origin/final-a
